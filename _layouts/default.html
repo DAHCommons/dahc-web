@@ -22,6 +22,11 @@
       </header>
 
       <div id="banner">
+        {% if page.id != "home" %}
+          <span class="back">
+           <a class="button" href="{{ site.url }}" alt="back">&lang;</a>
+          </span>
+        {% endif %}
           <div class="navigation">
             <ul>
         {% assign default_paths = site.pages | map: "path" %}
@@ -45,6 +50,9 @@
       <section>
         {{ content }}
 
+        {% if page.id != "home" %}
+          <a href="{{ site.url }}" alt="back">back</a>
+        {% endif %}
       </section>
       <footer>
         {% if site.github.is_project_page %}

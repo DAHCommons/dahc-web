@@ -1,4 +1,6 @@
 ---
+id: home
+title: 
 layout: default
 ---
 
