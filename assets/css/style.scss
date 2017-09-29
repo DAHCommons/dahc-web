@@ -2,3 +2,15 @@
 ---
 
 @import 'jekyll-theme-leap-day';
+
+@media print, screen and (max-width: 480px) {
+
+  section {
+    margin-top: 0px;
+  }
+  #banner {
+    display: block;
+    top: 0px;
+    position: relative;
+  }
+}
