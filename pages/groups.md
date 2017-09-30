@@ -2,6 +2,7 @@
 layout: default
 title: Groups
 permalink: /groups
+nav: true
 ---
 
 ## Groups
