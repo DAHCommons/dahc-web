@@ -9,6 +9,12 @@ nav: true
 
 (paragraph from call)
 
+-  [hours and access]({{ site.baseurl }}/about#hours)
+-  [center contact information]({{ site.baseurl }}/about#contact)
+-  [advisory board]({{ site.baseurl }}/about#advisory)
+-  [thanks and credits]({{ site.baseurl }}/about#credits)
+-  [policies]({{ site.baseurl }}/about#policies)
+
 ## Hours
 
 (Link to hours for Collaborate print spot)
@@ -35,10 +41,3 @@ nav: true
 -  summer RAs
 
 ## Policies
-
--  About the DAHC
-   -  [hours and access]({{ site.baseurl }}//about#hours)
-   -  [center contact information]({{ site.baseurl }}//about#contact)
-   -  [advisory board]({{ site.baseurl }}//about#advisory)
-   -  [thanks and credits]({{ site.baseurl }}//about#credits)
-   -  [policies]({{ site.baseurl }}//policies)
