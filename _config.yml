@@ -1,5 +1,11 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
-google_analytics:
+title: DAHC
+description:  >
+  The Digital Arts & Humanities Commons at UCSB
+author: DAHC Admin
+email: dahc@hfa.ucsb.edu
 theme: jekyll-theme-leap-day
-baseurl: "/leap-day"
+permalink: /posts/:title
+baseurl: "/dahc-web"
+url: "https://DAHCommons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+google_analytics:
