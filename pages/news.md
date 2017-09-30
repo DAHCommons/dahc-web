@@ -9,6 +9,10 @@ nav: true
 
 See the [DAHC Calendar]({{ site.baseurl }}/calendar)
 
+## Gallery
+
+See the [Gallery]({{ site.baseurl }}/gallery)
+
 ## News
 
 <ul class="post-list">
