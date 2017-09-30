@@ -3,6 +3,35 @@
 
 @import 'jekyll-theme-leap-day';
 
+#header #logo {
+  position:absolute;
+  height: 36px;
+  width: 88px;
+  left: 7px;
+  top: 7px;
+  display: block;
+  background: url(../images/ucsbwave-gold.png);
+}
+
+#banner #logo {
+  position:absolute;
+  height: 36px;
+  width: 88px;
+  left: 7px;
+  top: 7px;
+  display: block;
+  background: url(../images/ucsbwave-gold.png);
+}
+
+#footer #logo {
+  height: 36px;
+  width: 88px;
+  left: 7px;
+  top: 7px;
+  display: block;
+  background: url(../images/ucsbwave-gold.png);
+}
+
 @media print, screen and (max-width: 480px) {
 
   section {
@@ -12,6 +41,9 @@
     display: block;
     top: 0px;
     position: relative;
+    #logo {
+      display: none;
+    }
   }
   .back {
     display: none;
