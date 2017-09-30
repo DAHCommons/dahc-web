@@ -1,6 +1,7 @@
 ---
+title: Example Draft
+date: 2017-09-30 22:41:29.639000000 Z
 layout: default
-title:  "Example Draft"
 author: Jeremy Douglass
 ---
 

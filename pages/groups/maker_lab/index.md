@@ -1,7 +1,6 @@
 ---
+permalink: "/maker_lab/"
 layout: default
-title: 
-permalink: /maker_lab/
 ---
 
 ## The Maker Lab

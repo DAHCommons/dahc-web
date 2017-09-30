@@ -1,9 +1,10 @@
 ---
-layout:  post
-title:   "Maker Lab Ribbon Cutting"
-author:  Teddy Roland
-date:    2017-09-26
-excerpt: The Maker Lab showcases a printer of the past; a printer of the future; and a printer of the "now"....
+title: Maker Lab Ribbon Cutting
+date: 2017-09-26 00:00:00 Z
+layout: post
+author: Teddy Roland
+excerpt: The Maker Lab showcases a printer of the past; a printer of the future; and
+  a printer of the "now"....
 ---
 
 Tue, September 26, 11:00 – 13:00

@@ -1,11 +1,20 @@
+---
 title: DAHC
-description:  >
-  The Digital Arts & Humanities Commons at UCSB
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'The Digital Arts & Humanities Commons at UCSB
+
+'
 author: DAHC Admin
 email: dahc@hfa.ucsb.edu
 theme: jekyll-theme-leap-day
-permalink: /posts/:title
+permalink: "/posts/:title"
 baseurl: "/dahc-web"
-url: "https://DAHCommons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-google_analytics:
+url: https://DAHCommons.github.io
+google_analytics: 

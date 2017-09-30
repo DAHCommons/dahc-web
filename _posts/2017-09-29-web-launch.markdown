@@ -1,8 +1,8 @@
 ---
-layout:  post
-title:   "Launching the DAHC website"
-author:  Jeremy Douglass
-date:    2017-09-29
+title: Launching the DAHC website
+date: 2017-09-29 00:00:00 Z
+layout: post
+author: Jeremy Douglass
 excerpt: a temporary to-do list of concepts and contents....
 ---
 

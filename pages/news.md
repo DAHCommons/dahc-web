@@ -1,7 +1,7 @@
 ---
+title: News
+permalink: "/news"
 layout: default
-title: "News"
-permalink: /news
 nav: true
 ---
 
