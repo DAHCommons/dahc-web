@@ -1,8 +1,9 @@
 ---
-layout: default
-title:  "Website Launch"
-author: Jeremy Douglass
-date:   2017-09-29
+layout:  default
+title:   "Website Launch"
+author:  Jeremy Douglass
+date:    2017-09-29
+excerpt: a temporary to-do list of concepts and contents....
 ---
 
 ## Launching the DAHC website
