@@ -8,19 +8,19 @@ excerpt: a temporary to-do list of concepts and contents....
 
 ...howto:
 
--  [style guide](jekyll-theme-leap-day-style-guide)
+-  [style guide]({{ site.baseurl }}/jekyll-theme-leap-day-style-guide)
 
 ...content:
 
--  [CFP](/cfp) -- a rolling call for participants
--  [News](/news) announcements
--  Calendar of [events](/events) 
--  [Resources](/resources)   
--  [Gallery](/gallery)
+-  [CFP]({{ site.baseurl }}/cfp) -- a rolling call for participants
+-  [News]({{ site.baseurl }}/news) announcements
+-  Calendar of [events]({{ site.baseurl }}/calendar) 
+-  [Gallery]({{ site.baseurl }}/gallery)
 -  About the DAHC
    -  [hours and access](/about#hours)
    -  [center contact information](/about#contact)
    -  [advisory board](/about#advisory-board)
    -  [thanks and credits](/about#credits)
-   -  [policies](/policies)
--  [Projects](/projects) and participants
+   -  [policies](/about#policies)
+   -  Resources
+-  [Groups](/groups) / projects - and participants
