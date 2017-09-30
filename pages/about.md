@@ -13,6 +13,10 @@ nav: true
 
 (Link to hours for Collaborate print spot)
 
+## Calendar
+
+[calendar]({{ site.baseurl }}/calendar)
+
 ## Contact
 
 -  center email
@@ -33,8 +37,8 @@ nav: true
 ## Policies
 
 -  About the DAHC
-   -  [hours and access](/about#hours)
-   -  [center contact information](/about#contact)
-   -  [advisory board](/about#advisory)
-   -  [thanks and credits](/about#credits)
-   -  [policies](/policies)
+   -  [hours and access]({{ site.baseurl }}//about#hours)
+   -  [center contact information]({{ site.baseurl }}//about#contact)
+   -  [advisory board]({{ site.baseurl }}//about#advisory)
+   -  [thanks and credits]({{ site.baseurl }}//about#credits)
+   -  [policies]({{ site.baseurl }}//policies)
