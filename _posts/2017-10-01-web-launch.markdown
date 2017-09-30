@@ -1,12 +1,10 @@
 ---
-layout:  default
-title:   "Website Launch"
+layout:  post
+title:   "Launching the DAHC website"
 author:  Jeremy Douglass
 date:    2017-09-29
 excerpt: a temporary to-do list of concepts and contents....
 ---
-
-## Launching the DAHC website
 
 -  [CFP](/cfp) -- a rolling call for participants
 -  [News](/news) announcements
