@@ -1,7 +1,8 @@
 ---
 layout: default
 title: CFP
-permalink: /cfp/
+permalink: /cfp
+nav: true
 ---
 
 ## CFP: Call for Participants

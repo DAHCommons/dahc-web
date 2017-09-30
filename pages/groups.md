@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Groups
-permalink: /groups/
+permalink: /groups
 ---
 
 ## Groups
