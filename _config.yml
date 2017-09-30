@@ -2,3 +2,4 @@ title: Leap Day theme
 description: Leap Day is a theme for GitHub Pages.
 google_analytics:
 theme: jekyll-theme-leap-day
+baseurl: "/leap-day"
