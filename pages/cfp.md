@@ -10,7 +10,7 @@ layout: default
 
 _Call open: Sep 2017 (rolling review)_
 
-For full details on how to apply: [https://goo.gl/bbNnQQ]()
+For full details on how to apply: <https://goo.gl/bbNnQQ>
 
 **Announcing a call for proposals for faculty-led open research spaces in the Digital Arts & Humanities Commons (DAHC), an open floor plan interdisciplinary co-working space for digital scholarship and pedagogy located in Music 1410 (formerly the Arts Library).**
 
@@ -22,4 +22,4 @@ The DAHC is located in Music 1410 (formerly the Arts Library), with 4,500 square
 
 Acceptance of a project proposal to the DAHC will come with reserved area for the project in the Commons, electrical and network access, furnishings (tables, chairs, rugs, lockers, bins), daily open hours (~9-5) supported by a Collaborate-staffed front desk, laptop and A/V checkout, site support from the Commons graduate research assistant, and availability of the Commons for event programming. In addition to communal whiteboards and monitors, limited Commons funds up to $1000 may be available for acquiring special equipment for either a given project proposal or group of proposals. However, proposals should emphasize the existing resources they will bring to their space.
 
-For full details on how to apply: [https://goo.gl/bbNnQQ]()
+For full details on how to apply: <https://goo.gl/bbNnQQ>
