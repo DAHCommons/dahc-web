@@ -1,6 +1,6 @@
 ---
 id: home
-title: 
+title: DAHC - Digital Arts and Humanities Commons at UCSB
 layout: default
 ---
 
