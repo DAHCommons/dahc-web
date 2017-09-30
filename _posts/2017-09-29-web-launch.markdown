@@ -6,6 +6,12 @@ author: Jeremy Douglass
 excerpt: a temporary to-do list of concepts and contents....
 ---
 
+...howto:
+
+-  [style guide](jekyll-theme-leap-day-style-guide)
+
+...content:
+
 -  [CFP](/cfp) -- a rolling call for participants
 -  [News](/news) announcements
 -  Calendar of [events](/events) 
