@@ -10,11 +10,8 @@ layout: default
 The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship and pedagogy located in Music 1410 (formerly the Arts Library). The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.
 
 * [hours and access]({{ site.baseurl }}/about#hours)
-
 * [center contact information]({{ site.baseurl }}/about#contact)
-
 * [advisory board]({{ site.baseurl }}/about#advisory)
-
 * [thanks and credits]({{ site.baseurl }}/about#credits)
 
 <!-- [policies]({{ site.baseurl }}/about#policies) -->
@@ -23,16 +20,16 @@ The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdiscipli
 
 ### RA Hours (Fall 2017)
 
-| M-W | 3-5p |
+| M-W | 3-5p |  
 | F   | 1-5p |
 or by appt. - contact <dahc@hfa.ucsb.edu>
 
 DAHC is open during the hours of the [Collaborate Print Spot](http://www.collaborate.ucsb.edu/services/student/printing) which are determined by the [Music Library](https://www.library.ucsb.edu/hours). Please check the official schedule, but these are often:
 
-|=========|========|
-| Mon-Wed | 9a-10p |
-| Thu-Fri | 9a-6p  |
-| Sun     | 2p-10p |
+|=========|========|  
+| Mon-Wed | 9a-10p |  
+| Thu-Fri | 9a-6p  |  
+| Sun     | 2p-10p |  
 
 ## Calendar
 
