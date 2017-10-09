@@ -1,43 +1,68 @@
 ---
 title: About
 permalink: "/about"
-layout: default
 nav: true
+layout: default
 ---
 
 ## About the DAHC
 
-(paragraph from call)
+The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship and pedagogy located in Music 1410 (formerly the Arts Library). The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.
 
--  [hours and access]({{ site.baseurl }}/about#hours)
--  [center contact information]({{ site.baseurl }}/about#contact)
--  [advisory board]({{ site.baseurl }}/about#advisory)
--  [thanks and credits]({{ site.baseurl }}/about#credits)
--  [policies]({{ site.baseurl }}/about#policies)
+* [hours and access]({{ site.baseurl }}/about#hours)
+
+* [center contact information]({{ site.baseurl }}/about#contact)
+
+* [advisory board]({{ site.baseurl }}/about#advisory)
+
+* [thanks and credits]({{ site.baseurl }}/about#credits)
+
+<!-- [policies]({{ site.baseurl }}/about#policies) -->
 
 ## Hours
 
-(Link to hours for Collaborate print spot)
+### RA Hours (Fall 2017)
+
+| M-W | 3-5p |
+| F   | 1-5p |
+or by appt. - contact <dahc@hfa.ucsb.edu>
+
+DAHC is open during the hours of the [Collaborate Print Spot](http://www.collaborate.ucsb.edu/services/student/printing) which are determined by the [Music Library](https://www.library.ucsb.edu/hours). Please check the official schedule, but these are often:
+
+|=========|========|
+| Mon-Wed | 9a-10p |
+| Thu-Fri | 9a-6p  |
+| Sun     | 2p-10p |
 
 ## Calendar
 
-[calendar]({{ site.baseurl }}/calendar)
+Please visit the [DAHC calendar]({{ site.baseurl }}/calendar)
 
 ## Contact
 
--  center email
--  faculty director -- email
--  RA -- email
+* DAHC email: <dahc@hfa.ucsb.edu>
+
+* Faculty Director: Jeremy Douglass
+
+* Graduate RA: Teddy Roland
 
 ## Advisory Board
 
-(list from call)
+- Jeremy Douglass, *English*
+- Anthony Barbieri-Low, *History*
+- Laurel Beckman, *Art*
+- Alenda Chang, *Film & Media Studies*
+- Jon Jablonski, *Library*
+- Alan Liu, *English*	
+- Claudia Moser, *History of Art & Architecture*
+- David Novak, *Music*
+- Laila Shereen Sakr, *Film & Media Studies*
+- Madeleine Sorapure, *Writing Program*
 
 ## Credits
 
--  HFA
--  SASC
--  Julie Cunningham and David Burby
--  summer RAs
+The Digital Arts & Humanities Commons is an initiative of Dean John Majewski and the Division of Humanities & Fine Arts (HFA). It is generously supported by the services of the South Hall Administrative Support Center (SASC). Julie Cunningham and David Burby have been instrumental in the design, vision, and implementation of the Commons.
 
-## Policies
+<! -- summer RAs -->
+
+<!-- Policies -->
