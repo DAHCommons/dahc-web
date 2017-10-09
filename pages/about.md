@@ -38,9 +38,7 @@ Please visit the [DAHC calendar]({{ site.baseurl }}/calendar)
 ## Contact
 
 * DAHC email: <dahc@hfa.ucsb.edu>
-
 * Faculty Director: Jeremy Douglass
-
 * Graduate RA: Teddy Roland
 
 ## Advisory Board
@@ -60,6 +58,6 @@ Please visit the [DAHC calendar]({{ site.baseurl }}/calendar)
 
 The Digital Arts & Humanities Commons is an initiative of Dean John Majewski and the Division of Humanities & Fine Arts (HFA). It is generously supported by the services of the South Hall Administrative Support Center (SASC). Julie Cunningham and David Burby have been instrumental in the design, vision, and implementation of the Commons.
 
-<!-- summer RAs -->
+<!-- Summer RAs -->
 
 <!-- Policies -->
