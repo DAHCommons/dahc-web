@@ -20,19 +20,11 @@ The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdiscipli
 
 DAHC is open during the hours of the [Collaborate Print Spot](http://www.collaborate.ucsb.edu/services/student/printing) which are determined by the [Music Library](https://www.library.ucsb.edu/hours). Please check the official schedule, but these are often:
 
-| Day     | Time   |
-|---------|--------|
-| Mon-Wed | 9a-10p |
-| Thu-Fri | 9a-6p  |
-| Sun     | 2p-10p |
-
-### RA Hours (Fall 2017)
-
-| Day     | Time   |
-|---------|--------|
-| M-W | 3-5p |
-| F   | 1-5p |
-or by appt. - contact <dahc@hfa.ucsb.edu>
+| Center Hours    | RA Hours (Fall 2017) |
+|-----------------|----------------------|
+| Mon-Wed  9a-10p | Mon-Wed 3-5p |
+| Thu-Fri   9a-6p | Fri 1-5p     |
+| Sun      2-10p  | or by appt.  |
 
 ## Calendar
 
