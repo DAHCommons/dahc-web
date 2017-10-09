@@ -18,18 +18,21 @@ The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdiscipli
 
 ## Hours
 
-### RA Hours (Fall 2017)
-
-| M-W | 3-5p |  
-| F   | 1-5p |
-or by appt. - contact <dahc@hfa.ucsb.edu>
-
 DAHC is open during the hours of the [Collaborate Print Spot](http://www.collaborate.ucsb.edu/services/student/printing) which are determined by the [Music Library](https://www.library.ucsb.edu/hours). Please check the official schedule, but these are often:
 
-|=========|========|  
-| Mon-Wed | 9a-10p |  
-| Thu-Fri | 9a-6p  |  
-| Sun     | 2p-10p |  
+| Day     | Time   |
+|---------|--------|
+| Mon-Wed | 9a-10p |
+| Thu-Fri | 9a-6p  |
+| Sun     | 2p-10p |
+
+### RA Hours (Fall 2017)
+
+| Day     | Time   |
+|---------|--------|
+| M-W | 3-5p |
+| F   | 1-5p |
+or by appt. - contact <dahc@hfa.ucsb.edu>
 
 ## Calendar
 
@@ -37,9 +40,9 @@ Please visit the [DAHC calendar]({{ site.baseurl }}/calendar)
 
 ## Contact
 
-* DAHC email: <dahc@hfa.ucsb.edu>
-* Faculty Director: Jeremy Douglass
-* Graduate RA: Teddy Roland
+- DAHC email: <dahc@hfa.ucsb.edu>
+- Faculty Director: Jeremy Douglass
+- Graduate RA: Teddy Roland
 
 ## Advisory Board
 
