@@ -10,6 +10,7 @@ layout: default
 The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship and pedagogy located in Music 1410 (formerly the Arts Library). The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.
 
 * [hours and access]({{ site.baseurl }}/about#hours)
+* [calendar]({{ site.baseurl }}/about#calendar)
 * [center contact information]({{ site.baseurl }}/about#contact)
 * [advisory board]({{ site.baseurl }}/about#advisory)
 * [thanks and credits]({{ site.baseurl }}/about#credits)
