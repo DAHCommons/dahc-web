@@ -10,6 +10,7 @@ layout: post
 ---
 
 > **Tue, September 26, 11a – 11p**
+
 > **UCSB MUSIC 1404**
 
 Ribbon-cutting ceremony and luncheon celebrating the opening of the Maker Lab, directed by Patricia Fumerton.
