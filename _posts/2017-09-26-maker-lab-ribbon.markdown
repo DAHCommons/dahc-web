@@ -9,7 +9,7 @@ excerpt: Ribbon-cutting ceremony and luncheon celebrating the opening of the Mak
 layout: post
 ---
 
-**Tue, September 26, 11a – 11p**
+**Tue, September 26, 11a – 11p**</br>
 **UCSB MUSIC 1404**
 
 Ribbon-cutting ceremony and luncheon celebrating the opening of the Maker Lab, directed by Patricia Fumerton.
