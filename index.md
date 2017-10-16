@@ -8,7 +8,7 @@ layout: default
 
 The DAHC is located on in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbarba.
 
-## Apply to join the DAHC
+## Apply to Join the DAHC
 
 For full details on how to apply, see the [full CFP](https://goo.gl/bbNnQQ).
 
