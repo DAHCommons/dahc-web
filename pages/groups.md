@@ -1,13 +1,13 @@
 ---
 title: Groups
 permalink: "/groups"
-layout: default
 nav: true
+layout: default
 ---
 
-## Groups
+<!-- ## Groups
 
--  [Maker Lab]({{ site.baseurl }}/maker_lab)
+-  [Maker Lab]({{ site.baseurl }}/maker_lab) -->
 
 ## Affiliated Groups
 
