@@ -1,26 +1,14 @@
 ---
-title: Launching the DAHC website
+title: Launching the DAHC Website
 date: 2017-09-29 00:00:00 Z
-layout: post
 author: Jeremy Douglass
-excerpt: a temporary to-do list of concepts and contents....
+excerpt: Welcome to the Digital Arts & Humanities Commons (DAHC) website! This site
+  will offer a [directory of member groups]({{ site.baseurl }}/calendar) and show
+  member projects. We will also host a [gallery]({{ site.baseurl }}/gallery) and a
+  [calendar]({{ site.baseurl }}/calendar) of events at DAHC.
+layout: post
 ---
 
-...howto:
+Welcome to the Digital Arts & Humanities Commons (DAHC) website! This site will offer a [directory of member groups]({{ site.baseurl }}/calendar) and show member projects. We will also host a [gallery]({{ site.baseurl }}/gallery) and a [calendar]({{ site.baseurl }}/calendar) of events at DAHC.
 
--  [style guide]({{ site.baseurl }}/jekyll-theme-leap-day-style-guide)
-
-...content:
-
--  [CFP]({{ site.baseurl }}/cfp) -- a rolling call for participants
--  [News]({{ site.baseurl }}/news) announcements
--  Calendar of [events]({{ site.baseurl }}/calendar) 
--  [Gallery]({{ site.baseurl }}/gallery)
--  About the DAHC
-   -  [hours and access](/about#hours)
-   -  [center contact information](/about#contact)
-   -  [advisory board](/about#advisory-board)
-   -  [thanks and credits](/about#credits)
-   -  [policies](/about#policies)
-   -  Resources
--  [Groups](/groups) / projects - and participants
+We invite you to return often to learn about events that we will host during the academic year and our past and present research groups.
