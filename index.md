@@ -21,9 +21,9 @@ The DAHC invites proposals from faculty-led research groups interested in meetin
     <li>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h2>
+      <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </h2>
+      </h3>
       <p>{{ post.excerpt }}</p>
       <hr>
     </li>
