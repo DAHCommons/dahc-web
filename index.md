@@ -17,7 +17,7 @@ The DAHC invites proposals from faculty-led research groups interested in meetin
 ## Recent News
 
 <ul class="post-list">
-  {% for post in site.posts limit 3 %}
+  {% for post in site.posts limit:3 %}
     <li>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
