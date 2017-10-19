@@ -8,9 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: 'The Digital Arts & Humanities Commons at UCSB
-
-'
+description: 'The Digital Arts & Humanities Commons at UCSB'
 author: DAHC Admin
 email: dahc@hfa.ucsb.edu
 theme: jekyll-theme-leap-day
@@ -18,3 +16,4 @@ permalink: "/posts/:title"
 baseurl: ""
 url: https://DAHCommons.github.io
 google_analytics: 
+---
