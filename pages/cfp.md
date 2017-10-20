@@ -8,7 +8,7 @@ layout: default
 
 ## Call for Proposals: Open Research Spaces in the new Digital Arts & Humanities Commons
 
-![Panorama of DAHC Space]({{ site.baseurl }}/assets/images/DAHC-pano-color.JPG)
+![Panorama of DAHC Space]({{ site.baseurl }}/assets/images/DAHC-pano-color-bg.JPG)
 
 _Call open: Sep 2017 (rolling review)_
 
