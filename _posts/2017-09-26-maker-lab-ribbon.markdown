@@ -26,4 +26,4 @@ We hope to see you there, and do feel free to invite collaborators in thinking a
 With best wishes
 Paddy
 
-![Maker Lab Flyer](Maker-Lab-Flyer.jpg)
+![Maker Lab Flyer]({{ site.baseurl }}/assets/images/Maker-Lab-Flyer.jpg)
