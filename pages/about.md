@@ -12,8 +12,8 @@ The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdiscipli
 * [hours and access]({{ site.baseurl }}/about#hours)
 * [calendar]({{ site.baseurl }}/about#calendar)
 * [center contact information]({{ site.baseurl }}/about#contact)
-* [advisory board]({{ site.baseurl }}/about#advisory)
-* [graduate research assistants]({{ site.baseurl }}/about#graduate)
+* [advisory board]({{ site.baseurl }}/about#advisory-board)
+* [graduate research assistants]({{ site.baseurl }}/about#research-assistants)
 * [thanks and credits]({{ site.baseurl }}/about#credits)
 
 <!-- [policies]({{ site.baseurl }}/about#policies) -->
@@ -51,7 +51,7 @@ Please visit the [DAHC calendar]({{ site.baseurl }}/calendar)
 - Laila Shereen Sakr, *Film & Media Studies*
 - Madeleine Sorapure, *Writing Program*
 
-## Graduate Research Assistants
+## Research Assistants
 - Melina Gooray, *History of Art & Architecture*
 - Ryan Leach, *English*
 - Ali Rahman, *Comparative Literature*
