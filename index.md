@@ -31,3 +31,7 @@ The DAHC invites proposals from faculty-led research groups interested in meetin
 </ul>
 
 [...MORE NEWS]({{ site.baseurl }}/news)
+
+## Calendar
+
+{% include calendar.html %}
