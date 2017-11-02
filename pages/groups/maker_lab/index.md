@@ -17,9 +17,7 @@ ML has two embracive arms: **The Center for Printing Practice**, founding direct
 
 ----------
 
-**The Center for Printing Practice** is a collaboration of faculty, graduate students, and undergrads across disciplines devoted to the history and making of print. In the act of creative thinking, it tracks a circular history of print from the common hand-operated pull press, through digital technology, to 3D reproduction—the artifacts of which we integrate back into early printing practices. 3D plastic images and letters sit alongside metal movable type from all historical periods, together with wooden hand-carved illustrations in the “forme” of the press bed, ready for the “kiss” of the heavy tympan onto the paper laid upon the forme which produces the printed sheet.
-
-![Mad Madge printing press]({{ site.baseurl }}/assets/images/groups-maker_lab-madge-01.png)
+<img alt="Mad Madge printing press" src="{{ site.baseurl }}/assets/images/groups-maker_lab-madge-01.png" align="right" style="padding:5px;" />**The Center for Printing Practice** is a collaboration of faculty, graduate students, and undergrads across disciplines devoted to the history and making of print. In the act of creative thinking, it tracks a circular history of print from the common hand-operated pull press, through digital technology, to 3D reproduction—the artifacts of which we integrate back into early printing practices. 3D plastic images and letters sit alongside metal movable type from all historical periods, together with wooden hand-carved illustrations in the “forme” of the press bed, ready for the “kiss” of the heavy tympan onto the paper laid upon the forme which produces the printed sheet.
 
 The pride of the Center for Printing Practice is Mad Madge, a reconstruction of an early 19th-century Albion pull press, named after the eccentric Margaret “Mad Madge” Cavendish, poet, fiction-writer, and inquiring mind, most active in the 1650s. See the 2017 _Current_ video documenting Madge’s celebrated arrival:
 
@@ -33,9 +31,7 @@ The pride of the Center for Printing Practice is Mad Madge, a reconstruction of 
 
 ![punctum books logo]({{ site.baseurl }}/assets/images/groups-punctum-logo.png)
 
-**punctum books** is an open access publisher dedicated to producing radically creative “risk taking” modes of intellectual inquiry and writing across a wide range of disciplines, from the humanities to the sciences.
-
-![HIC SVNT MONSTRA]({{ site.baseurl }}/assets/images/groups-punctum-hic-sunt-monstra.png)
+<img alt="HIC SVNT MONSTRA" src="{{ site.baseurl }}/assets/images/groups-punctum-hic-sunt-monstra.png" align="right" style="padding:5px;" />**punctum books** is an open access publisher dedicated to producing radically creative “risk taking” modes of intellectual inquiry and writing across a wide range of disciplines, from the humanities to the sciences.
 
 Punctum draws on the talents of students collaborating with scholars to create whimsical academic books at the cusp of the history of print: designed digitally, published in hard copy, but then made openly (re)available to consumers in digital format. Like Fortune pictured in its logo, punctum seizes the winds of the times to imaginatively and creatively make ships of magic out of monsters and experiment with the depths and breadth of human and creaturely thought.
 
