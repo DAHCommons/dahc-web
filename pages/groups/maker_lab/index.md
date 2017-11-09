@@ -4,7 +4,9 @@ layout: default
 ---
 
 ## The Maker Lab
-<img alt="Maker Lab logo" src="{{ site.baseurl }}/assets/images/groups-maker_lab-logo-2.png" align=“left” style="padding:5px;" />Devoted to Making. Thinking. Experimenting. And “spontaneous acts of scholarly combustion.”
+![Maker Lab logo]({{ site.baseurl }}/assets/images/groups-maker_lab-logo-2.png)
+
+Devoted to Making. Thinking. Experimenting. And “spontaneous acts of scholarly combustion.”
 
 ML seeks collaboration across disciplines in creative ways to recreate, advance, and re-make the history and making of print.
 
@@ -14,7 +16,9 @@ ML has two embracive arms: **The Center for Printing Practice**, founding direct
 
 ----------
 
-<a href=“{{ site.baseurl }}/assets/images/gallery/06-Paddy-Kristy-Madge.JPG”><img alt="Mad Madge printing press" src="{{ site.baseurl }}/assets/images/groups-maker_lab-madge-01.png" align="right" style="padding:5px;" /></a>**The Center for Printing Practice** is a collaboration of faculty, graduate students, and undergrads across disciplines devoted to the history and making of print. In the act of creative thinking, it tracks a circular history of print from the common hand-operated pull press, through digital technology, to 3D reproduction—the artifacts of which we integrate back into early printing practices. 3D plastic images and letters sit alongside metal movable type from all historical periods, together with wooden hand-carved illustrations in the “forme” of the press bed, ready for the “kiss” of the heavy tympan onto the paper laid upon the forme which produces the printed sheet.
+[![Mad Madge printing press]({{ site.baseurl }}/assets/images/groups-maker_lab-madge-01.png)]({{ site.baseurl }}/assets/images/gallery/06-Paddy-Kristy-Madge.JPG)
+
+**The Center for Printing Practice** is a collaboration of faculty, graduate students, and undergrads across disciplines devoted to the history and making of print. In the act of creative thinking, it tracks a circular history of print from the common hand-operated pull press, through digital technology, to 3D reproduction—the artifacts of which we integrate back into early printing practices. 3D plastic images and letters sit alongside metal movable type from all historical periods, together with wooden hand-carved illustrations in the “forme” of the press bed, ready for the “kiss” of the heavy tympan onto the paper laid upon the forme which produces the printed sheet.
 
 The pride of the Center for Printing Practice is Mad Madge, a reconstruction of an early 19th-century Albion pull press, named after the eccentric Margaret “Mad Madge” Cavendish, poet, fiction-writer, and inquiring mind, most active in the 1650s. See the 2017 _Current_ video documenting Madge’s celebrated arrival:
 

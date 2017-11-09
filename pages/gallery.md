@@ -28,4 +28,4 @@ Dean John Majewski shows off his commemorative print fresh from the printing pre
 
 ![Mad Madge]({{ site.baseurl }}/assets/images/gallery/06-Paddy-Kristy-Madge.JPG)
 
-Mad Madge herself, with Professor Patricia Fummerton and Kristy McCants
+Mad Madge herself, with Professor Patricia Fumerton and Kristy McCants
