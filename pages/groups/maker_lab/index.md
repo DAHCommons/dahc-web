@@ -16,7 +16,7 @@ ML has two embracive arms: **The Center for Printing Practice**, founding direct
 
 ----------
 
-[![Mad Madge printing press]({{ site.baseurl }}/assets/images/groups-maker_lab-madge-01.png)]({{ site.baseurl }}/assets/images/gallery/06-Paddy-Kristy-Madge.JPG)
+![Mad Madge printing press]({{ site.baseurl }}/assets/images/groups-maker_lab-madge-01.png)
 
 **The Center for Printing Practice** is a collaboration of faculty, graduate students, and undergrads across disciplines devoted to the history and making of print. In the act of creative thinking, it tracks a circular history of print from the common hand-operated pull press, through digital technology, to 3D reproduction—the artifacts of which we integrate back into early printing practices. 3D plastic images and letters sit alongside metal movable type from all historical periods, together with wooden hand-carved illustrations in the “forme” of the press bed, ready for the “kiss” of the heavy tympan onto the paper laid upon the forme which produces the printed sheet.
 
