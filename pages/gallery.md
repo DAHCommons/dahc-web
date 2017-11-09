@@ -25,3 +25,7 @@ Dilling Yang looks inside "Madge" -- a 19th century Albion printing press.
 ![Dean Majewski's Print]({{ site.baseurl }}/assets/images/gallery/05-Majewski-Print.JPG)
 
 Dean John Majewski shows off his commemorative print fresh from the printing press.
+
+![Mad Madge]({{ site.baseurl }}/assets/images/gallery/06-Paddy-Kristy-Madge.JPG)
+
+Mad Madge herself, with Professor Patricia Fummerton and Kristy McCants
