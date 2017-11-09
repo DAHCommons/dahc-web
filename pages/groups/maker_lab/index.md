@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## The Maker Lab
-![Maker Lab logo]({{ site.baseurl }}/assets/images/groups-maker_lab-logo-2.png){.left}
+![Maker Lab logo]({{ site.baseurl }}/assets/images/groups-maker_lab-logo-2.png)
 
 Devoted to Making. Thinking. Experimenting. And “spontaneous acts of scholarly combustion.”
 
