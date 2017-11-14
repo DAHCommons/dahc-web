@@ -32,6 +32,20 @@ DAHC is open during the hours of the [Collaborate Print Spot](http://www.collabo
 
 Please visit the [DAHC calendar]({{ site.baseurl }}/calendar)
 
+
+## Equipment and Facilities
+
+Laptop checkout
+: Windows and Mac laptops are available for general checkout from the Print Spot equipment cart for use in the Commons. The laptops use campus wifi; a pair of wired ethernet adapters are also available for checkout. These computers are "frozen" -- meaning that any changes or saved data on these laptops will be erased once they are restarted. This is intended to protect users by preventing any personal data (gMail messages, SSNs, passwords, etc.) from accidentally being left on a shared public device.
+
+Wired networking
+: A limited number of wired ethernet adaptors and network cables are available for checkout from the Print Spot equipment cart. All network jacks in the DAHC commons are active, and checkout laptops are registered.
+
+Media carts
+: A media cart is a Windows PC computer and large screen TV with wireless keyboard/mouse peripheral. Carts are for first-come use, although they may be reserved for group meetings, classes, or events.
+
+Contact <dahc@hfa.ucsb.edu> for reservations; see the Print Spot front desk for checkout.
+
 ## Contact
 
 - DAHC email: <dahc@hfa.ucsb.edu>
