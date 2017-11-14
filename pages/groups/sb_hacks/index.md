@@ -16,3 +16,4 @@ Follow us on [Facebook](https://www.facebook.com/ucsbhacks/) or visit our [websi
 
 ![Our Spring 2017 hackathon organizers]({{ site.baseurl }}/assets/images/groups-sb_hacks-2017-Spring.jpeg)
 
+![SB Hacks Meeting]({{ site.baseurl }}/assets/images/groups-sb_hacks-log-team-2--small.jpg)

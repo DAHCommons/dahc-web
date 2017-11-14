@@ -6,11 +6,19 @@ layout: default
 
 ## Gallery
 
+![SB Hacks Meeting]({{ site.baseurl }}/assets/images/groups-sb_hacks-log-team-2--small.jpg)
+
+An SB Hacks student group meeting in the DAHC. With the hackathon just two months away, SB Hacks is starting to hold more and more team meetings to make sure that everyone is making progress.
+
+----------
+
 ![Reception in DAHC]({{ site.baseurl }}/assets/images/gallery/02-Reception-in-DAHC.JPG)
 
 The very first reception in the Digital Arts & Humanities Commons!
 
 ![Reception in DAHC]({{ site.baseurl }}/assets/images/gallery/01-Reception-in-DAHC.JPG)
+
+----------
 
 A gathering for the ribbon-cutting event launching the new Maker Lab in the DAHC.
 
