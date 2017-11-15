@@ -44,6 +44,9 @@ Wired networking
 Media carts
 : A media cart is a Windows PC computer and large screen TV with wireless keyboard/mouse peripheral. Carts are for first-come use, although they may be reserved for group meetings, classes, or events.
 
+Analog technologies
+: Seating and tables are available for up to 50 participants, and for large events there is standing room for many more. We make available five whiteboards. The Commons has lockers for secure storage; member groups should bring their own padlocks.
+
 Contact <dahc@hfa.ucsb.edu> for reservations; see the Print Spot front desk for checkout.
 
 ## Contact
