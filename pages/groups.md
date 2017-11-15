@@ -18,3 +18,4 @@ DAHC groups meet, conduct research, and teach in the Commons, and in particular 
 ## Student Organizations
 
 -  [SB Hacks]({{ site.baseurl }}/sb_hacks)
+-  [UCSB Data Science Club]({{ site.baseurl }}/data_science_club)
