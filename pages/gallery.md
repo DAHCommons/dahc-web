@@ -20,6 +20,22 @@ The very first reception in the Digital Arts & Humanities Commons!
 
 ----------
 
+![Prof. Douglass]({{ site.baseurl }}/assets/images/gallery/A01-Douglass.JPG)
+
+Welcoming participants to the Commons
+
+![Prof. Griffin]({{ site.baseurl }}/assets/images/gallery/A02-Griffin.JPG)
+
+Professor Andrew Griffin gives the vision of the Maker Lab
+
+![Prof. Novak]({{ site.baseurl }}/assets/images/gallery/A03-Novak.JPG)
+
+Professor Marcos Novak discusses virtual worlds research on campus
+
+![Wireframe Graduate Students]({{ site.baseurl }}/assets/images/gallery/A04-Wireframe.JPG)
+
+Participants in Leila Sakr’s Fem-Tech Lab
+
 A gathering for the ribbon-cutting event launching the new Maker Lab in the DAHC.
 
 ![Prof. Fumerton Inaugurates the MakerLab]({{ site.baseurl }}/assets/images/gallery/03-Fumerton-Welcome.JPG)
