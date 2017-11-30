@@ -6,6 +6,20 @@ layout: default
 
 ## Gallery
 
+![Team Photo]({{ site.baseurl }}/assets/images/gallery/B01-Team-Photo.jpg)
+
+Data Science at UCSB hosts a [Django Girls](https://djangogirls.org) workshop in the DAHC.
+
+![Reception in DAHC]({{ site.baseurl }}/assets/images/gallery/B02-Workshop.jpg)
+
+A show of hands for Badass Django Ladies!
+
+![Coding with Mentors]({{ site.baseurl }}/assets/images/gallery/B03-Breakout-Session.jpg)
+
+During breakout sessions, participants code with the support of mentors from the Data Science club.
+
+----------
+
 ![SB Hacks Meeting]({{ site.baseurl }}/assets/images/groups-sb_hacks-log-team-2--small.jpg)
 
 An SB Hacks student group meeting in the DAHC. With the hackathon just two months away, SB Hacks is starting to hold more and more team meetings to make sure that everyone is making progress.
@@ -35,6 +49,8 @@ Professor Marcos Novak discusses virtual worlds research on campus
 ![Wireframe Graduate Students]({{ site.baseurl }}/assets/images/gallery/A04-Wireframe.JPG)
 
 Participants in Leila Sakr’s Fem-Tech Lab
+
+----------
 
 A gathering for the ribbon-cutting event launching the new Maker Lab in the DAHC.
 
