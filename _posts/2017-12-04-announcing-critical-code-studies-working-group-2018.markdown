@@ -1,5 +1,5 @@
 ---
-title: Announcement: Critical Code Studies Working Group 2018
+title: Announcing Critical Code Studies Working Group 2018
 date: 2017-12-04 00:00:00 Z
 author: Teddy Roland
 layout: post
