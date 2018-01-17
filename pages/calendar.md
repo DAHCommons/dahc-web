@@ -14,9 +14,6 @@ The DAHC calendar announces upcoming events and tracks space bookings for class 
 
 ## Bookings / Announcements
 
-To add an event announcement to the calendar or book a space, send either an invitation via Google Calendar or a regular email with event details to:
+To add an event announcement to the calendar or book a space, please fill out our [Event Proposal Form](https://goo.gl/forms/GZkJN3btrW5IJq612).
 
--  [dahc@hfa.ucsb.edu]()
-
-Please be sure to indicate what area specifically is being requested, and the start and end dates for recurring events (such as class meetings).
-
+For details about the space, see our [Equipment & Facilities]({{ site.baseurl }}/about#equipment-and-facilities) page, or email us: [dahc@hfa.ucsb.edu]()

@@ -11,6 +11,7 @@ The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdiscipli
 
 * [hours and access]({{ site.baseurl }}/about#hours)
 * [calendar]({{ site.baseurl }}/about#calendar)
+* [equipment and facilities]({{ site.baseurl }}/about#equipment-and-facilities)
 * [center contact information]({{ site.baseurl }}/about#contact)
 * [advisory board]({{ site.baseurl }}/about#advisory-board)
 * [graduate research assistants]({{ site.baseurl }}/about#research-assistants)
