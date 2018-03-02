@@ -1,5 +1,5 @@
 ---
-title: SB Hacks IV: Hackathon
+title: SB Hacks IV Hackathon
 date: 2018-01-15 00:00:00 Z
 author: Teddy Roland
 layout: post

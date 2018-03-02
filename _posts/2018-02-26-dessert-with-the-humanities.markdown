@@ -1,5 +1,5 @@
 ---
-title: Dessert with the Humanities: Emerging Options in Media and Technology
+title: Dessert with the Humanities
 date: 2018-02-26 00:00:00 Z
 author: Teddy Roland
 layout: post

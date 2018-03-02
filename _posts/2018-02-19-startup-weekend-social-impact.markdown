@@ -1,5 +1,5 @@
 ---
-title: Startup Weekend: Social Impact
+title: Startup Weekend
 date: 2018-02-19 00:00:00 Z
 author: Teddy Roland
 layout: post
