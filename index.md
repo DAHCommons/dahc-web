@@ -4,7 +4,7 @@ id: home
 layout: default
 ---
 
-**The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship and pedagogy.** The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.
+**The Digital Arts & Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice.** The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.
 
 The DAHC is located on in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbarba.
 
