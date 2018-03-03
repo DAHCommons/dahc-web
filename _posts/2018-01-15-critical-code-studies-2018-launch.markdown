@@ -10,6 +10,6 @@ The [Critical Code Studies Working Group 2018](http://wg18.criticalcodestudies.c
 
 CCSWG18 will be held in a public-facing forum, so please join us and check out the conversations as they unfold over the next three weeks.
 
-Week 1: [Gender and Programming](http://wg18.criticalcodestudies.com/index.php?p=/discussion/11/week-1-gender-and-programming-culture-main-thread)
-Week 2: [Creative and Critical Coding](http://wg18.criticalcodestudies.com/index.php?p=/discussion/26/week-2-creative-and-critical-coding-main-thread)
-Week 3: [Race and Black Codes](http://wg18.criticalcodestudies.com/index.php?p=/discussion/42/week-3-race-and-black-codes-main-thread)
+* Week 1: [Gender and Programming](http://wg18.criticalcodestudies.com/index.php?p=/discussion/11/week-1-gender-and-programming-culture-main-thread)
+* Week 2: [Creative and Critical Coding](http://wg18.criticalcodestudies.com/index.php?p=/discussion/26/week-2-creative-and-critical-coding-main-thread)
+* Week 3: [Race and Black Codes](http://wg18.criticalcodestudies.com/index.php?p=/discussion/42/week-3-race-and-black-codes-main-thread)
