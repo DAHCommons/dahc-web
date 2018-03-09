@@ -5,7 +5,7 @@ layout: default
 
 ## The Maker Lab
 
-<img alt="Maker Lab logo" src="{{ site.baseurl }}/assets/images/groups-maker_lab-logo-2.png" align="left" style="padding:10px;" />Devoted to Making. Thinking. And Experimenting.
+<img alt="Maker Lab logo" src="{{ site.baseurl }}/assets/images/groups-maker_lab-logo-2.png" align="left" style="padding:10px;" />Devoted to Making. Thinking. Experimenting.
 
 The Maker Lab seeks collaboration across disciplines in creative ways to recreate, advance, and re-make the history and making of print.
 
