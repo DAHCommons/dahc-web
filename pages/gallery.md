@@ -6,6 +6,28 @@ layout: default
 
 ## Gallery
 
+![Happy Hacking]({{ site.baseurl }}/assets/images/gallery/C01-Happy-Hacking.jpg)
+
+SB Hacks Kick-Off! 
+
+![Team Gathered Behind Podium]({{ site.baseurl }}/assets/images/gallery/C02-Development-Team.jpg)
+
+A team settles in for the long haul.
+
+![Groups at Long Tables]({{ site.baseurl }}/assets/images/gallery/C03-Development-Big-Room.jpg)
+
+The SB Hacks event, which lasted more than 48 hours straight, was hosted in several spaces on campus, including the DAHC.
+
+![Augmented Images on Smartphone Screen]({{ site.baseurl }}/assets/images/gallery/C04-Augmented-Reality.jpg)
+
+Developing an augmented reality app.
+
+![Nodding Off at the Podium]({{ site.baseurl }}/assets/images/gallery/C05-Team-Photo-Marathon.jpg)
+
+After two days of marathon coding, it's time to rest!
+
+----------
+
 ![Team Photo]({{ site.baseurl }}/assets/images/gallery/B01-Team-Photo.jpg)
 
 Data Science at UCSB hosts a [Django Girls](https://djangogirls.org) workshop in the DAHC.
