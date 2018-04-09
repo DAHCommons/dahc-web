@@ -7,18 +7,18 @@ layout: default
 ## Scriptworlds
 
 **Lead UCSB Faculty**
-  Sowon S Park (English; Cognitive Science Emphasis and Comparative Literature Affiliate)
+> Sowon S Park (English; Cognitive Science Emphasis and Comparative Literature Affiliate)
 
 **Core Investigators**
-  Prof. Sowon Park
-  Prof. Matthew Reynolds (Oxford)
+> Prof. Sowon Park
+> Prof. Matthew Reynolds (Oxford)
 
 **Graduate Associate Researchers**
-  David Hur (UCSB; Comparative Literature)
-  Daniel Martini Tybjerg (UCSB; Comparative Literature)
+> David Hur (UCSB; Comparative Literature)
+> Daniel Martini Tybjerg (UCSB; Comparative Literature)
 
 **Artist**
-  Ethan Turpin (Santa Barbara; [ethanturpin.com](http://ethanturpin.com/))
+> Ethan Turpin (Santa Barbara; [ethanturpin.com](http://ethanturpin.com/))
 
 ---
 
@@ -40,6 +40,6 @@ For example, T S Eliot’s 'Four Quartets', read by the poet himself, will be an
 
 The objective of **Scriptworlds** is to build a new framework within which to think about language, literature and translation and to create a place for literature to find new relevance in the context of the notable advances that have been made in recent years on the neuroscience of reading and in digital technology. The final showcase event will be an accessible and aesthetic embodiment of our 4-years’ research, a visual apotheosis of the **Prismatic Translation** project.
 
-<img alt="Sowon S Park, Lead UCSB Faculty" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-park.jpg" align="left" style="padding:10px;" width="220" />
-<img alt="David Hur, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-hur.jpg" align="left" style="padding:10px;" width="220" />
-<img alt="Daniel Martini Tybjerg, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-martini.jpg" align="left" style="padding:10px;" width="220" />
+<img alt="Sowon S Park, Lead UCSB Faculty" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-park.jpg" align="left" style="padding:10px;" />
+<img alt="David Hur, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-hur.jpg" align="left" style="padding:10px;" />
+<img alt="Daniel Martini Tybjerg, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-martini.jpg" align="left" style="padding:10px;" />
