@@ -9,36 +9,36 @@ layout: default
 **Lead UCSB Faculty**
 * Sowon S Park (English; Cognitive Science Emphasis and Comparative Literature Affiliate)
 
-**Core Investigators**
-* Prof. Sowon Park
-* Prof. Matthew Reynolds (Oxford)
+**Co-PI**
+* Prof. Matthew Reynolds ([Oxford](https://www.english.ox.ac.uk/people/professor-matthew-reynolds))
 
 **Graduate Associate Researchers**
 * David Hur (UCSB; Comparative Literature)
-* Daniel Martini Tybjerg (UCSB; Comparative Literature)
+* Daniel Martini (UCSB; Comparative Literature)
 
 **Artist**
 * Ethan Turpin (Santa Barbara; [ethanturpin.com](http://ethanturpin.com/))
 
 ---
 
-The aim of the **Scriptworlds** project is to investigate, through literature, the role that different scripts play in shaping the thought-worlds of those who use them. This research will comprise the second part of the **[Prismatic Translation](https://www.creativeml.ox.ac.uk/research/prismatic-translation)** project based at Oxford University and funded by the British AHRC (Arts and Humanities Research Council).  It is a 4-year grant (2016-2020) and a strand in the **Creative Multilingualism** initiative.
+The aim of the **Scriptworlds** project is to investigate, through literature, the role that different scripts play in shaping the thought-worlds of those who use them. This research will comprise the second part of the **[Prismatic Translation](https://www.creativeml.ox.ac.uk/research/prismatic-translation)** project  based at Oxford University and funded by the British AHRC (Arts and Humanities Research Council).  It is a 4-year grant (2016-2020) and a strand in the **Creative Multilingualism** initiative.
 
-The first part of the **Prismatic Translation** research (2016-2017) analyzed key differences between translations of *Jane Eyre* in two dozen languages and the research will be published as a book by Legenda in 2018.
-
-Building on this work, my Co-PI, Professor Matthew Reynolds, and I would like to bring this project to UCSB and develop a working relationship with OCCT (Oxford Comparative Criticism and Translation) and various centres here, such as DAHC, the Translation program, Literature and the Mind and TransLab.
+The first part of the **Prismatic Translation** research (2016-2017) analyzed key differences between translations of *Jane Eyre* in two dozen languages. Building on this work, **Scriptworlds** brings this project to UCSB and develops a working relationship with OCCT (Oxford Comparative Criticism and Translation) and DAHC.
 
 Specifically, we will systematically trace the processes by which readers translate between visual perception and auditory perception by establishing in concrete terms important distinctions between spoken language and written language. Speech and writing are related, but are by no means identical: there are properties specific to each. Failure to differentiate between speech and writing is a major source of confusion that erroneously supports a phonocentric view of writing problematized by Derrida in *Of Grammatology* (1967).
 
 To this end, **Scriptworlds** will compare literature written in ‘ideographic’ scripts (e.g. Chinese) with those written in phonetic scripts (e.g. Roman alphabet) and test the idea, forwarded by thinkers as diverse as Ernest Fenollosa, Ezra Pound, A C Graham, Chad Hansen, Roland Barthes and Jacques Derrida, that the ideographic Chinese produces ‘nominalist’ thought on account of its ‘graphic wealth’ and ‘phonetic poverty’, while the phonetic Roman alphabet lends itself to the kind of abstract thinking that produced western ‘realist’ philosophy.
 
-On this question, we will organise two conferences, the first at UCSB in 2018 and then a panel at the 2019 ICLA in China. Leading specialists from around the world will present their ideas on the non-‘phonocentric’ relation between writing and speech that literatures around the world have in common and explore their implications for translation and multilingualism. The papers presented will be collected and combined with papers from a workshop held at the [Vienna ICLA (Group 16711)](https://icla2016.univie.ac.at/group-sections/) on 23-24 July 2016.  “The Chinese Scriptworld and World Literature”, and published as a book.
+The DAHC as a community and a physical space provide a prime opportunity to develop a data specific methodology to sonify and visualize various literary texts in Chinese and in English. They may reveal cognitive parallels and discontinuities that the edifice of script provides.
 
-Alongside the research on script, we would like to conduct an audiovisual experiment. The DAHC as a community and a physical space provide a prime opportunity to develop a data specific methodology to sonify and visualize various literary texts in Chinese and in English. The audiovisual installations will produce parallel experiences of literary texts that will reveal structural parallels and discontinuities that the edifice of script provides.
+The objective of **Scriptworlds** is to build a new framework within which to think about language, literature and translation and to create a place for literature to find new relevance in the context of the notable advances that have been made in recent years on the neuroscience of reading and in digital technology.
 
-For example, T S Eliot’s 'Four Quartets', read by the poet himself, will be analyzed according to pitch, intensity and tone as well as filtered and evaluated according to beat and sound. The data would then be turned into digital music, which might enable us to identify patterns in the poem that classical prosody may not readily reveal. Translations of the poem would also be analyzed for a comparative analysis. The information will also be developed into projections of blocks of colour and exhibited as a colour light installation, turning written versions into a visual experience.  In addition to ‘Four Quartets’, our material may include sections from *The Analects*, *Jane Eyre*, and various *Declarations of Independence*, in an array of translations.
+---
 
-The objective of **Scriptworlds** is to build a new framework within which to think about language, literature and translation and to create a place for literature to find new relevance in the context of the notable advances that have been made in recent years on the neuroscience of reading and in digital technology. The final showcase event will be an accessible and aesthetic embodiment of our 4-years’ research, a visual apotheosis of the **Prismatic Translation** project.
+Ethan Turpin uses old and new media technologies to explore human perceptions within large systems.  He is dedicated to making learning spaces where people of all ages can engage in contemplation.  Working as an independent video producer and artist since 1999, his projects have spanned topics such as climate crisis in 3D at The California Museum of Photography, to geometric growth at The Kavli Institute for Theoretical Physics.  In 2017 he installed three interactive “Video Organisms” at the Wolf Museum of Experience and Innovation (MOXI).  In his current collaborations with fire researchers at UCSB’s Bren School for Environmental Science and Management, Ethan films wildfire incidents and produces user-controlled visualizations with support from the National Science Foundation.  Ethan studied sculpture at the Victoria College of Art in Melbourne, Australia and received a Bachelor of Fine Arts degree in 1997 from the Kansas City Art Institute.
+
+---
+
 
 <div align="center">
 <img alt="Sowon S Park, Lead UCSB Faculty" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-park.jpg" style="padding:10px;" />
@@ -51,7 +51,12 @@ Sowon S Park, Lead UCSB Faculty
 David Hur, Graduate Associate Researcher
 <br>
 <br>
-<img alt="Daniel Martini Tybjerg, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-martini.jpg" style="padding:10px;" />
+<img alt="Daniel Martini, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-martini.jpg" style="padding:10px;" />
 <br>
-Daniel Martini Tybjerg, Graduate Associate Researcher
+Daniel Martini, Graduate Associate Researcher
+<br>
+<br>
+<img alt="Ethan Turpin, Artist" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-turpin.jpg" style="padding:10px;" />
+<br>
+Ethan Turpin, Artist
 </div>
