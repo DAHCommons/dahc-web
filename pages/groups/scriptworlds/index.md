@@ -7,21 +7,24 @@ layout: default
 ## Scriptworlds
 
 **Lead UCSB Faculty**
+
 Sowon S Park (English; Cognitive Science Emphasis and Comparative Literature Affiliate)
 
 **Core Investigators**
+
 Prof. Sowon Park
 Prof. Matthew Reynolds (Oxford)
 
 **Graduate Associate Researchers**
+
 David Hur (UCSB; Comparative Literature)
 Daniel Martini Tybjerg (UCSB; Comparative Literature)
 
-**Artist** Ethan Turpin (Santa Barbara; [ethanturpin.com](http://ethanturpin.com/))
+**Artist**
+ Ethan Turpin (Santa Barbara; [ethanturpin.com](http://ethanturpin.com/))
 
 ---
 
-**Summary**
 The aim of the **Scriptworlds** project is to investigate, through literature, the role that different scripts play in shaping the thought-worlds of those who use them. This research will comprise the second part of the **[Prismatic Translation](https://www.creativeml.ox.ac.uk/research/prismatic-translation)** project based at Oxford University and funded by the British AHRC (Arts and Humanities Research Council).  It is a 4-year grant (2016-2020) and a strand in the **Creative Multilingualism** initiative.
 
 The first part of the **Prismatic Translation** research (2016-2017) analyzed key differences between translations of *Jane Eyre* in two dozen languages and the research will be published as a book by Legenda in 2018.
