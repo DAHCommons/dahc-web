@@ -42,14 +42,16 @@ The objective of **Scriptworlds** is to build a new framework within which to th
 
 <div align="center">
 <img alt="Sowon S Park, Lead UCSB Faculty" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-park.jpg" style="padding:10px;" />
-
-Sowon S Park, Lead UCSB Faculty
-
+<br>
+**Sowon S Park, Lead UCSB Faculty**
+<br>
+<br>
 <img alt="David Hur, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-hur.jpg" style="padding:10px;" />
-
-David Hur, Graduate Associate Researcher
-
+<br>
+**David Hur, Graduate Associate Researcher**
+<br>
+<br>
 <img alt="Daniel Martini Tybjerg, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-martini.jpg" style="padding:10px;" />
-
-Daniel Martini Tybjerg, Graduate Associate Researcher
+<br>
+**Daniel Martini Tybjerg, Graduate Associate Researcher**
 </div>
