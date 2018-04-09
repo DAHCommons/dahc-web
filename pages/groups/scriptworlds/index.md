@@ -7,18 +7,26 @@ layout: default
 ## Scriptworlds
 
 **Lead UCSB Faculty**
-> Sowon S Park (English; Cognitive Science Emphasis and Comparative Literature Affiliate)
+```
+Sowon S Park (English; Cognitive Science Emphasis and Comparative Literature Affiliate)
+```
 
 **Core Investigators**
-> Prof. Sowon Park
-> Prof. Matthew Reynolds (Oxford)
+```
+Prof. Sowon Park
+Prof. Matthew Reynolds (Oxford)
+```
 
 **Graduate Associate Researchers**
-> David Hur (UCSB; Comparative Literature)
-> Daniel Martini Tybjerg (UCSB; Comparative Literature)
+```
+David Hur (UCSB; Comparative Literature)
+Daniel Martini Tybjerg (UCSB; Comparative Literature)
+```
 
 **Artist**
-> Ethan Turpin (Santa Barbara; [ethanturpin.com](http://ethanturpin.com/))
+```
+Ethan Turpin (Santa Barbara; [ethanturpin.com](http://ethanturpin.com/))
+```
 
 ---
 
