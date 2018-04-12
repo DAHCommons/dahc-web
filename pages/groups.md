@@ -10,6 +10,7 @@ DAHC groups meet, conduct research, and teach in the Commons, and in particular 
 ## Research Groups
 
 -  [The Maker Lab]({{ site.baseurl }}/maker_lab)
+-  [REM Lab]({{ site.baseurl }}/rem_lab)
 -  [Scriptworlds]({{ site.baseurl }}/scriptworlds)
 
 ## Affiliated Groups
