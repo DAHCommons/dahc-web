@@ -8,7 +8,7 @@ layout: default
 
 The Lab Group is composed of faculty, graduate students, visiting researchers, and associated researchers including graduates and former post-docs. The general aim of the REM Lab is to assist in the development of individual and collaborative research projects, including papers, dissertations, and grant proposals, that seek to understand the interaction of religion, experience, and mind across traditions and cultures.  Meetings are usually devoted to graduate student presentations on research in progress and occasionally to outside speakers of interest to the group.
 
-![REM Graphic Banner of Devotional Practices]({{ site.baseurl }}/assets/images/gallery/groups-rem-banner.png)
+![REM Graphic Banner of Devotional Practices]({{ site.baseurl }}/assets/images/groups-rem-banner.png)
 
 ---
 
@@ -32,4 +32,4 @@ We know that people all over the world have experiences that stand out for them,
 * **Maharshi Vyas**, UCSB graduate student (Religious Studies), specializing in South Asian Religions (under W. Ellison)
 * **Jed Forman**, UCSB graduate student (Religious Studies), specializing in Tibetan Buddhism (under J. Cabezon), India fieldwork coordinator
 
-![REM Lab Team]({{ site.baseurl }}/assets/images/gallery/groups-rem-team.png)
+![REM Lab Team]({{ site.baseurl }}/assets/images/groups-rem-team.png)
