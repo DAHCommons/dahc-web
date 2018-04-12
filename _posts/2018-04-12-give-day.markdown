@@ -5,7 +5,7 @@ author: Teddy Roland
 layout: post
 ---
 
-![Give Day Flyer]({{ site.baseurl }}/assets/images/news-give-day-flyer.jpg)
+![Give Day Flyer]({{ site.baseurl }}/assets/images/news-give-day-flyer.png)
 
 Today is UCSB Give Day, an opportunity to celebrate the story of UC Santa Barbara!
  
