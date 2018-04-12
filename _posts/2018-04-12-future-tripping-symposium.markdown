@@ -5,9 +5,9 @@ author: Teddy Roland
 layout: post
 ---
 
-April 23-24, 2018 (1410 Music Bldg.)
-Wireframe Studio + Digital Arts & Humanities Commons
-UC Santa Barbara
+* April 23-24, 2018 (1410 Music Bldg.)
+* Wireframe Studio + Digital Arts & Humanities Commons
+* UC Santa Barbara
 
 <div align="center">
 <img alt="Future Tripping Flyer" src="{{ site.baseurl }}/assets/images/news-future-tripping-flyer.png" width="400"/>
