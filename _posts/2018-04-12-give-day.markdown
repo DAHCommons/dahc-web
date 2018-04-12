@@ -1,0 +1,16 @@
+---
+title: UCSB Give Day Pop-Up
+date: 2018-04-12 00:00:00 Z
+author: Teddy Roland
+layout: post
+---
+
+![Give Day Flyer]({{ site.baseurl }}/assets/images/news-give-day-flyer.jpg)
+
+Today is UCSB Give Day, an opportunity to celebrate the story of UC Santa Barbara!
+ 
+Today, we witness GENEROSITY AMPLIFIED. We see what happens when stories and efforts collect, creating one narrative and a wave of philanthropic support.
+ 
+Because you are part of UCSB, you are part of its story. Today, we’ll weave this collective story through emails and social media, and together, we’ll raise support for UCSB like never before.
+
+Join our Give Day Pop-Up event in the Digital Arts & Humanities Commons (Music 1410) today 12-2 pm, and tell your story!
