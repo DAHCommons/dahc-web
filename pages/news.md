@@ -5,7 +5,11 @@ layout: default
 nav: true
 ---
 
-## News
+## Photo Gallery
+
+Check out [photos from our recent events]({{ site.baseurl }}/gallery).
+
+## News & Events
 
 <ul class="post-list">
   {% for post in site.posts %}
