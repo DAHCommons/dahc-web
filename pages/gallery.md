@@ -1,6 +1,7 @@
 ---
 title: Gallery
 permalink: "/gallery"
+nav: true
 layout: default
 ---
 

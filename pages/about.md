@@ -29,11 +29,6 @@ DAHC is open during the hours of the [Collaborate Print Spot](http://www.collabo
 | Thu-Fri   9a-6p | Fri 1-5p     |
 | Sun      2-10p  | or by appt.  |
 
-## Calendar
-
-Please visit the [DAHC calendar]({{ site.baseurl }}/calendar)
-
-
 ## Equipment and Facilities
 
 Laptop checkout
