@@ -7,7 +7,7 @@ layout: default
 ## Scriptworlds
 
 **Lead UCSB Faculty**
-* Sowon S Park (English; Cognitive Science Emphasis and Comparative Literature Affiliate)
+* Sowon S Park ([English](https://www.english.ucsb.edu/people/park-sowon-0); Cognitive Science Emphasis and Comparative Literature Affiliate)
 
 **Co-PI**
 * Prof. Matthew Reynolds ([Oxford](https://www.english.ox.ac.uk/people/professor-matthew-reynolds))
@@ -23,7 +23,7 @@ layout: default
 
 <table>
 <tr>
-<td align="center">
+<td style="margin:auto; text-align:center;">
 <img alt="Sowon S Park, Lead UCSB Faculty" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-park.jpg" style="padding:10px;" />
 <br>
 Sowon S Park, Lead UCSB Faculty
