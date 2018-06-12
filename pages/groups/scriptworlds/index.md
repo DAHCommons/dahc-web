@@ -47,16 +47,16 @@ Sowon S Park, Lead UCSB Faculty
 <td align="center">
 <img alt="David Hur, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-hur.jpg" style="padding:10px;" />
 <br>
-David Hur, Graduate Associate Researcher
+David Hur, Graduate Associate
 </td>
 </tr>
 <tr>
 <td align="center">
 <img alt="Daniel Martini, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-martini.jpg" style="padding:10px;" />
 <br>
-Daniel Martini, Graduate Associate Researcher
+Daniel Martini, Graduate Associate
 </td>
-<td align="center">
+<td style="margin:auto; text-align:center;">
 <img alt="Ethan Turpin, Artist" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-turpin.jpg" style="padding:10px;" />
 <br>
 Ethan Turpin, Artist
