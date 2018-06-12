@@ -39,23 +39,24 @@ Ethan studied sculpture at the Victoria College of Art in Melbourne, Australia a
 <div align="center">
 <table>
 <tr>
-<td><img alt="Sowon S Park, Lead UCSB Faculty" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-park.jpg" style="padding:10px;" />
+<td align="center">
+<img alt="Sowon S Park, Lead UCSB Faculty" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-park.jpg" style="padding:10px;" />
 <br>
 Sowon S Park, Lead UCSB Faculty
 </td>
-<td>
+<td align="center">
 <img alt="David Hur, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-hur.jpg" style="padding:10px;" />
 <br>
 David Hur, Graduate Associate Researcher
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 <img alt="Daniel Martini, Graduate Associate Researcher" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-martini.jpg" style="padding:10px;" />
 <br>
 Daniel Martini, Graduate Associate Researcher
 </td>
-<td>
+<td align="center">
 <img alt="Ethan Turpin, Artist" src="{{ site.baseurl }}/assets/images/groups-scriptworlds-turpin.jpg" style="padding:10px;" />
 <br>
 Ethan Turpin, Artist
