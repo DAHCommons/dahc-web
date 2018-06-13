@@ -20,11 +20,11 @@ Alenda Chang introduces a panel featuring Danielle Christianson, Summer Gray, an
 ![Liz Losh]({{ site.baseurl }}/assets/images/gallery/FT02-losh.jpg)
 
 Liz Losh gives the Future Tripping keynote: "That Was the News That Wasn’t: Fake News and the Culture of Simulation"
-
 ![Species Futures]({{ site.baseurl }}/assets/images/gallery/FT05-thinking-walking.JPG)
 
-Future Tripping moves out of the Commons and into the environment during the "Thinking/Walking Out-of-Doors" session
+Future Tripping moves outdoors during the "Thinking/Walking" session
 
+----------
 
 ![Happy Hacking]({{ site.baseurl }}/assets/images/gallery/C01-Happy-Hacking.jpg)
 
