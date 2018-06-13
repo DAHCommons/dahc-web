@@ -6,6 +6,26 @@ layout: default
 
 ## Gallery
 
+![Play Workshop]({{ site.baseurl }}/assets/images/gallery/FT04-play-workshop.jpg)
+
+The Future Tripping symposium kicks off with a Play Workshop
+
+![Susana Ruiz]({{ site.baseurl }}/assets/images/gallery/FT03-ruiz.jpg)
+
+Susana Ruiz theorizes serious play!
+
+![Panel Discussion]({{ site.baseurl }}/assets/images/gallery/FT01-christianson-gray-novak.jpg)
+
+Alenda Chang introduces a panel featuring Danielle Christianson, Summer Gray, and Marcos Novak
+![Liz Losh]({{ site.baseurl }}/assets/images/gallery/FT02-losh.jpg)
+
+Liz Losh gives the Future Tripping keynote: "That Was the News That Wasn’t: Fake News and the Culture of Simulation"
+
+![Species Futures]({{ site.baseurl }}/assets/images/gallery/FT05-thinking-walking.JPG)
+
+Future Tripping moves out of the Commons and into the environment during the "Thinking/Walking Out-of-Doors" session
+
+
 ![Happy Hacking]({{ site.baseurl }}/assets/images/gallery/C01-Happy-Hacking.jpg)
 
 SB Hacks Kick-Off! 
