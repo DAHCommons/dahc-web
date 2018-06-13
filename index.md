@@ -30,6 +30,6 @@ The DAHC is located on in Music 1410 (formerly the Arts Library) on the campus o
 
 ## Apply to Join the DAHC
 
-For full details on how to apply, see the [CFP]({{ site.baseurl }}/news).
+For full details on how to apply, see the [CFP]({{ site.baseurl }}/cfp).
 
 The DAHC invites proposals from faculty-led research groups interested in meeting, conducting research, and teaching in the Commons, and in particular in making creative use of space. For example, these may take the form of makerspaces, hackerspaces, digital recording and editing kiosks or open labs. The space may be used for research projects, classes and class projects, or as a site for conferences and other events.

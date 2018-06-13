@@ -9,8 +9,6 @@ layout: default
 
 ![Panorama of DAHC Space]({{ site.baseurl }}/assets/images/DAHC-pano-color-bg.JPG)
 
-_Current Review Period: February 22 - April 6, 2018_
-
 For full details on how to apply: <https://goo.gl/f547SP>
 
 **Calling for proposals for faculty-led open research spaces in the Digital Arts & Humanities Commons (DAHC), an open floor plan interdisciplinary co-working space for digital scholarship, creative practice, and pedagogy located in Music 1410 (formerly the Arts Library).**
