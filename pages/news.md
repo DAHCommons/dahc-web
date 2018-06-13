@@ -9,6 +9,10 @@ nav: true
 
 Check out [photos from our recent events]({{ site.baseurl }}/gallery).
 
+## Bulletin Board
+
+Let the DAHC community know about upcoming events, ongoing projects, and recent awards by sharing flyers and pictures through the [virtual bulletin board](https://goo.gl/forms/37ssmQ9iK4sNJM5O2).
+
 ## News & Events
 
 <ul class="post-list">
