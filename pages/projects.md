@@ -1,11 +1,11 @@
 ---
 title: Projects
-date: 2018-06-15 12:00:00 Z
 permalink: "/projects"
+nav: true
 layout: default
 ---
 
-## DAHC Projects
+# DAHC Projects
 
 DAHC Projects are self-guided, hands-on exercises that introduce the basics of Digital Arts and Humanities research at UCSB. They are designed with the curious student in mind: someone who may not have a background in digital methods or research, but who is willing to spend thirty minutes learning about a new field or a new perspective. Since each Project is designed to reflect the research program of one of DAHC's member groups, students are invited to make contact with groups whose work they find interesting.
 

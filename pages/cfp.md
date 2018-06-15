@@ -1,6 +1,5 @@
 ---
 title: CFP
-date: 2018-03-02 12:00:00 Z
 permalink: "/cfp"
 layout: default
 ---
